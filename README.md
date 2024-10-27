@@ -5,7 +5,7 @@ This repository contains the final project for the Data-Driven Life Science (DDL
 The project aims to apply deep learning approaches, using the Geneformer model, to perform cell classification and in-silico gene perturbations to study Type 1 and Type 2 diabetes. 
 
 ## Notebook
-The notebook `ddls_course_2024_project.ipynb` contains the following:
+The notebook `DDLS_2024_final_project_OF_new.ipynb` contains the following:
 - Tokenizing of single-cell RNA-seq data.
 - Fine-tuning of the Geneformer model for cell state classification.
 - Evaluation metrics (accuracy, confusion matrix, clustered heatmap).
