@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2024 OliverForsell
+Copyright (c) 2024 Oliver Forsell
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -11,6 +11,11 @@ furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
+
+**Note:** This license applies solely to the code and content within this
+repository. The Geneformer package is separate software developed by others,
+and its usage is governed by its own licensing terms. You must comply with
+the licensing and usage policies of Geneformer when using that package.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
